@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "name": "Noah G",
+    "titles": [
+      "Front-end Web Developer",
+      "Project Manager",
+      "Lead Developer",
+      "Unreal Engine Game Developer"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/Noehy",
+        "class": "fab fa-github"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "ReactJS",
+        "class": "devicon-react-original",
+        "level": "80"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      }
+    ]
+  }
+}
